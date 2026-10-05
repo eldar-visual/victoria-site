@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+.DS_Store
+*.tsbuildinfo
+.netlify/
+
+# duplicate backup copies
+*_1.*
